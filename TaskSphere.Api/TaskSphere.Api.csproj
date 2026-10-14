@@ -15,9 +15,4 @@
     <ProjectReference Include="..\TaskSphere.Infrastructure\TaskSphere.Infrastructure.csproj" />
   </ItemGroup>
 
-  <ItemGroup>
-    <Folder Include="Application\Tasks\Commands\" />
-    <Folder Include="Application\Tasks\Queries\" />
-  </ItemGroup>
-
 </Project>
