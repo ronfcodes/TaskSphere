@@ -1,0 +1,6 @@
+<Solution>
+  <Project Path="TaskSphere.Api/TaskSphere.Api.csproj" />
+  <Project Path="TaskSphere.Core/TaskSphere.Core.csproj" />
+  <Project Path="TaskSphere.Infrastructure/TaskSphere.Infrastructure.csproj" />
+  <Project Path="TaskSphere/TaskSphere.csproj" />
+</Solution>
